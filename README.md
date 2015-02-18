@@ -2,6 +2,8 @@
 
 ![ginpei.png (A penguin and the Sun)](./ginpei.png)
 
+(NOTE: "Gi" of my name is pronounced as [gi] like git, not [ji] like gif.)
+
 ## Contact
 
 * GitHub: [@ginpei](https://github.com/ginpei/)
