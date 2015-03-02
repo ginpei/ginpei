@@ -4,7 +4,7 @@
 
 (NOTE: "Gi" of my name is pronounced as [gi] like git, not [ji] like gif.)
 
-## Contact
+## 連絡先 - Contact
 
 * GitHub: [@ginpei](https://github.com/ginpei/)
 * Twitter: [@ginpei\_en](https://twitter.com/ginpei_en)(en) / [@ginpei\_jp](https://twitter.com/ginpei_jp)(ja)
